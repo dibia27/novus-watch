@@ -1,0 +1,60 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.novus-watch {
+  font-style: normal;
+  font-size: 20px;
+
+  background-color: #7581b3bd;
+  -webkit-text-size-adjust: none;
+  text-size-adjust: none;
+  display: grid;
+  min-height: 100vh;
+}
+.novus-img {
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+}
+.novus-p {
+  text-emphasis: none;
+  text-decoration: none;
+  font-size: 1.4em;
+}
+.series-iv {
+  line-height: 1.5rem;
+  background-color: #fff;
+  width: 460px;
+  border-radius: 10px;
+  margin: 50px auto;
+  position: relative;
+}
+.tag{
+  background-color: #fdf1b4;
+  color:#000;
+  font-weight: bold;
+  padding: 7px 10px;
+  font-size: 1em;
+  position:absolute;
+  top:10px;
+  left:-10px;
+  /* border-top-right-radius: 20px; */
+  border-top-right-radius: 20px;
+  border-bottom-right-radius: 20px;
+}
+
+.box {
+  margin-top: 10px;
+  padding: 10px 30px;
+  display: flex;
+}
+.series-p {
+  margin-left: 10px;
+  color: #645e5efd;
+  margin-top: 5px;
+}
+.pinnacle-text {
+  margin-top: 5px;
+  padding: 10px 30px;
+}
