@@ -11,6 +11,7 @@
   -webkit-text-size-adjust: none;
   text-size-adjust: none;
   display: grid;
+  place-items: center;
   min-height: 100vh;
 }
 .novus-img {
@@ -25,20 +26,20 @@
 .series-iv {
   line-height: 1.5rem;
   background-color: #fff;
-  width: 460px;
+  width: 300px;
   border-radius: 10px;
   margin: 50px auto;
   position: relative;
 }
-.tag{
+.tag {
   background-color: #fdf1b4;
-  color:#000;
+  color: #000;
   font-weight: bold;
   padding: 7px 10px;
   font-size: 1em;
-  position:absolute;
-  top:10px;
-  left:-10px;
+  position: absolute;
+  top: 10px;
+  left: -10px;
   /* border-top-right-radius: 20px; */
   border-top-right-radius: 20px;
   border-bottom-right-radius: 20px;
